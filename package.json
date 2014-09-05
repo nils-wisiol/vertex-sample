@@ -1,0 +1,14 @@
+{
+  "name": "vertex-sample",
+  "version": "1.0.0",
+  "description": "A basic sample app for example use with vertex.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Nils Wisiol",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~4.8.8"
+  }
+}
